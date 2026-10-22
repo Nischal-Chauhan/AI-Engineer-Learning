@@ -10,4 +10,5 @@ Completed practice files:
 - 03_marks_checker.py — if, elif, and else conditions
 - 04_multiplication_table.py — for loop and range
 - 05_while_loop.py — while loop and counting down
+- 06_number_guessing_game.py — number guessing game with hints
 Week 1 is in progress. More practice and projects will be added as I learn.
