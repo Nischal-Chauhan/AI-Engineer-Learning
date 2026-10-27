@@ -1,0 +1,5 @@
+name,marks,city,passed,marks_scaled
+Aarav,88.0,Ahmedabad,True,0.0
+Nischal,95.0,Ahmedabad,True,1.0
+Rahul,90.5,Jaipur,True,0.35714285714285715
+Meera,91.0,Jaipur,True,0.42857142857142855

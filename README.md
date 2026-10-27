@@ -52,3 +52,12 @@ Practice files:
 - `Week-05/iris.csv` — UCI Iris dataset
 
 Iris dataset source: R. A. Fisher (1936), [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/53/iris), CC BY 4.0.
+
+## Week 6: Data Cleaning & Preparation
+
+- `messy_students.csv` — sample data with a missing mark and duplicate row
+- `01_inspect_messy_data.py` — inspect missing values and duplicate rows
+- `02_clean_student_data.py` — remove missing and duplicate records; add a pass/fail feature
+- `03_fill_missing_marks.py` — fill a missing mark using the average
+- `04_student_data_cleaning_project.py` — clean data, create features, scale marks, and save the final CSV
+- `final_cleaned_students.csv` — final cleaned dataset
