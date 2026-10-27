@@ -1,0 +1,21 @@
+import pandas as pd
+
+students = pd.read_csv("Week-05/students.csv")
+
+print(students)
+print(type(students))
+print(students["name"])
+print(type(students["name"]))
+print("Students with marks 90 or above:")
+print(students[students["marks"] >= 90])
+print("Students sorted by marks, highest to lowest:")
+print(students.sort_values(by="marks", ascending=False))
+print("Average marks by city:")
+print(students.groupby("city")["marks"].mean())
+print("Dataset shape:", students.shape)
+print("Summary of marks:")
+print(students["marks"].describe())
+print("Dataset information:")
+students.info()
+print("Missing values in each column:")
+print(students.isnull().sum())

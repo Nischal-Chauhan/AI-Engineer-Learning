@@ -40,3 +40,15 @@ Practice files:
 ## Week 4: Git and GitHub
 
 - `Week-04/01_git_branch_practice.md` — Git branches aur basic workflow practice
+
+## Week 5: Data Handling with Pandas — Completed
+
+- `Week-05/01_pandas_intro.py` — DataFrames, CSV loading, filtering, sorting, grouping, and basic data exploration
+- `Week-05/02_excel_reader.py` — exporting CSV data to Excel and reading Excel files
+- `Week-05/03_student_data_analysis.py` — analyzing student marks with Pandas
+- `Week-05/04_iris_dataset_analysis.py` — exploring the Iris dataset with Pandas
+- `Week-05/students.csv` — sample student marks data
+- `Week-05/students.xlsx` — generated Excel workbook
+- `Week-05/iris.csv` — UCI Iris dataset
+
+Iris dataset source: R. A. Fisher (1936), [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/53/iris), CC BY 4.0.
