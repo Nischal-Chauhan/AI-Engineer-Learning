@@ -36,3 +36,7 @@ Practice files:
 - `05_csv_reader.py` — reading student marks from a CSV file and calculating the average, highest, and lowest marks
 - `students.csv` — sample student marks data
 - `learning_note.txt` — text file used for file handling practice
+
+## Week 4: Git and GitHub
+
+- `Week-04/01_git_branch_practice.md` — Git branches aur basic workflow practice
