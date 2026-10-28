@@ -61,3 +61,11 @@ Iris dataset source: R. A. Fisher (1936), [UCI Machine Learning Repository](http
 - `03_fill_missing_marks.py` — fill a missing mark using the average
 - `04_student_data_cleaning_project.py` — clean data, create features, scale marks, and save the final CSV
 - `final_cleaned_students.csv` — final cleaned dataset
+
+## Week 7: Text Processing Basics
+
+- `01_text_basics.py` — lowercase, punctuation removal, tokenization, and stopwords
+- `02_stemming.py` — reducing words with Porter stemming
+- `03_lemmatization.py` — converting words to dictionary base forms
+- `04_text_cleaning_pipeline.py` — text-cleaning pipeline using NLTK
+- NLTK data setup: `python -m nltk.downloader stopwords wordnet`
