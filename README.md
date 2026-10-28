@@ -69,3 +69,13 @@ Iris dataset source: R. A. Fisher (1936), [UCI Machine Learning Repository](http
 - `03_lemmatization.py` — converting words to dictionary base forms
 - `04_text_cleaning_pipeline.py` — text-cleaning pipeline using NLTK
 - NLTK data setup: `python -m nltk.downloader stopwords wordnet`
+
+## Week 8: Embeddings & Similarity
+
+- `01_vectors.py` — representing words with number vectors
+- `02_cosine_similarity.py` — comparing vectors using cosine similarity
+- `03_bag_of_words.py` — creating word-count vectors and comparing text
+- `04_real_embeddings.py` — generating sentence embeddings with a pretrained model
+- `05_semantic_search.py` — finding the closest sentence to a query
+
+The first run downloads the public model and requires an internet connection. The examples use CPU and do not require a GPU.
