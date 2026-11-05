@@ -39,9 +39,11 @@ Practice files:
 
 ## Week 4: Git and GitHub
 
-- `Week-04/01_git_branch_practice.md` — Git branches aur basic workflow practice
+- `Week-04/01_git_branch_practice.md` — Git branches and basic workflow practice
 
 ## Week 5: Data Handling with Pandas — Completed
+
+Practice files:
 
 - `Week-05/01_pandas_intro.py` — DataFrames, CSV loading, filtering, sorting, grouping, and basic data exploration
 - `Week-05/02_excel_reader.py` — exporting CSV data to Excel and reading Excel files
@@ -55,6 +57,8 @@ Iris dataset source: R. A. Fisher (1936), [UCI Machine Learning Repository](http
 
 ## Week 6: Data Cleaning & Preparation
 
+Practice files:
+
 - `messy_students.csv` — sample data with a missing mark and duplicate row
 - `01_inspect_messy_data.py` — inspect missing values and duplicate rows
 - `02_clean_student_data.py` — remove missing and duplicate records; add a pass/fail feature
@@ -64,13 +68,22 @@ Iris dataset source: R. A. Fisher (1936), [UCI Machine Learning Repository](http
 
 ## Week 7: Text Processing Basics
 
+Practice files:
+
 - `01_text_basics.py` — lowercase, punctuation removal, tokenization, and stopwords
 - `02_stemming.py` — reducing words with Porter stemming
 - `03_lemmatization.py` — converting words to dictionary base forms
 - `04_text_cleaning_pipeline.py` — text-cleaning pipeline using NLTK
-- NLTK data setup: `python -m nltk.downloader stopwords wordnet`
+
+NLTK data setup:
+
+```bash
+python -m nltk.downloader stopwords wordnet
+```
 
 ## Week 8: Embeddings & Similarity
+
+Practice files:
 
 - `01_vectors.py` — representing words with number vectors
 - `02_cosine_similarity.py` — comparing vectors using cosine similarity
@@ -78,4 +91,12 @@ Iris dataset source: R. A. Fisher (1936), [UCI Machine Learning Repository](http
 - `04_real_embeddings.py` — generating sentence embeddings with a pretrained model
 - `05_semantic_search.py` — finding the closest sentence to a query
 
-The first run downloads the public model and requires an internet connection. The examples use CPU and do not require a GPU.
+The first run downloads the public model and requires an internet connection.
+
+The scripts automatically use CUDA when a compatible NVIDIA GPU is available; otherwise, they fall back to CPU. The downloaded model is cached for future runs.
+
+## Learning Progress
+
+This repository documents my journey from Python fundamentals to AI engineering concepts through hands-on practice and projects.
+
+More weeks and projects will be added as I progress through the roadmap.
