@@ -100,3 +100,31 @@ The scripts automatically use CUDA when a compatible NVIDIA GPU is available; ot
 This repository documents my journey from Python fundamentals to AI engineering concepts through hands-on practice and projects.
 
 More weeks and projects will be added as I progress through the roadmap.
+
+# Week 9: Machine Learning Foundations
+
+## Concepts Covered
+
+- Supervised and unsupervised learning
+- Training and testing datasets
+- Data splitting using `train_test_split()`
+- Introduction to Logistic Regression
+- Training models using `model.fit()`
+- Making predictions using `model.predict()`
+- Evaluating models using accuracy score
+
+## Practice Projects
+
+- `01_train_test_split.py` — splitting student data into training and testing datasets
+- `02_student_ml_project.py` — preparing and displaying student training and testing data
+- `03_train_student_model.py` — training a Logistic Regression model and predicting student results
+
+## Libraries Used
+
+- Scikit-learn
+
+## Key Learning
+
+Built a basic student pass/fail prediction model using study hours as input features.
+
+Note: This project uses a very small sample dataset for learning purposes. Its accuracy is not representative of real-world performance.
