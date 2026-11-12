@@ -39,6 +39,8 @@ Practice files:
 
 ## Week 4: Git and GitHub
 
+Practice files:
+
 - `Week-04/01_git_branch_practice.md` — Git branches and basic workflow practice
 
 ## Week 5: Data Handling with Pandas — Completed
@@ -95,15 +97,9 @@ The first run downloads the public model and requires an internet connection.
 
 The scripts automatically use CUDA when a compatible NVIDIA GPU is available; otherwise, they fall back to CPU. The downloaded model is cached for future runs.
 
-## Learning Progress
+## Week 9: Machine Learning Foundations — Completed
 
-This repository documents my journey from Python fundamentals to AI engineering concepts through hands-on practice and projects.
-
-More weeks and projects will be added as I progress through the roadmap.
-
-# Week 9: Machine Learning Foundations
-
-## Concepts Covered
+### Concepts Covered
 
 - Supervised and unsupervised learning
 - Training and testing datasets
@@ -113,18 +109,56 @@ More weeks and projects will be added as I progress through the roadmap.
 - Making predictions using `model.predict()`
 - Evaluating models using accuracy score
 
-## Practice Projects
+### Practice Projects
 
-- `01_train_test_split.py` — splitting student data into training and testing datasets
-- `02_student_ml_project.py` — preparing and displaying student training and testing data
-- `03_train_student_model.py` — training a Logistic Regression model and predicting student results
+- `Week-09/01_train_test_split.py` — splitting student data into training and testing datasets
+- `Week-09/02_student_ml_project.py` — preparing and displaying student training and testing data
+- `Week-09/03_train_student_model.py` — training a Logistic Regression model and predicting student results
 
-## Libraries Used
+### Libraries Used
 
 - Scikit-learn
 
-## Key Learning
+### Key Learning
 
 Built a basic student pass/fail prediction model using study hours as input features.
 
 Note: This project uses a very small sample dataset for learning purposes. Its accuracy is not representative of real-world performance.
+
+## Week 10: Core Machine Learning Algorithms — Completed
+
+### Concepts Covered
+
+- Linear Regression for predicting numerical values
+- Logistic Regression for classification
+- K-Nearest Neighbors (KNN) classification
+- Decision Tree classification
+- Training and testing machine learning models
+- Comparing different machine learning algorithms using accuracy score
+- Making predictions with trained models
+
+### Practice Projects
+
+- `Week-10/01_linear_regression.py` — predicting student marks based on study hours using Linear Regression
+- `Week-10/02_logistic_regression.py` — predicting student pass/fail results using Logistic Regression
+- `Week-10/03_knn_classifier.py` — classifying student results using K-Nearest Neighbors
+- `Week-10/04_decision_tree.py` — predicting student results using a Decision Tree classifier
+- `Week-10/05_compare_models.py` — comparing Logistic Regression, KNN, and Decision Tree models
+- `Week-10/06_student_performance_prediction.py` — combined student performance prediction project using multiple machine learning algorithms
+
+### Libraries Used
+
+- Scikit-learn
+- NumPy (used internally by Scikit-learn)
+
+### Key Learning
+
+Learned how different machine learning algorithms work and built a student performance prediction project using study hours to predict marks and pass/fail results.
+
+Note: These projects use small sample datasets for learning purposes. Their predictions and accuracy scores are not representative of real-world performance.
+
+## Learning Progress
+
+This repository documents my journey from Python fundamentals to AI engineering concepts through hands-on practice and projects.
+
+More weeks and projects will be added as I progress through the 6-month AI Engineer roadmap.
