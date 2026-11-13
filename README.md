@@ -157,6 +157,36 @@ Learned how different machine learning algorithms work and built a student perfo
 
 Note: These projects use small sample datasets for learning purposes. Their predictions and accuracy scores are not representative of real-world performance.
 
+## Week 11: Model Evaluation — Completed
+
+### Concepts Covered
+
+- Accuracy, Precision, Recall, and F1 Score
+- Confusion Matrix
+- 5-Fold Cross-validation
+- Model Error Analysis
+- Evaluating machine learning model performance
+- Identifying and analysing incorrect predictions
+
+### Practice Projects
+
+- `Week-11/01_model_evaluation_metrics.py` — calculating accuracy, precision, recall, F1 score, and confusion matrix
+- `Week-11/02_cross_validation.py` — evaluating model performance using 5-fold cross-validation
+- `Week-11/03_model_error_analysis.py` — identifying incorrect predictions and calculating accuracy and error rate
+- `Week-11/04_model_evaluation_report.py` — complete model evaluation project combining evaluation metrics, confusion matrix, cross-validation, and error analysis
+
+### Libraries Used
+
+- Scikit-learn
+
+### Key Learning
+
+Learned how to evaluate machine learning models beyond accuracy, measure performance across multiple folds, interpret confusion matrices, and investigate incorrect predictions.
+
+Built a complete student performance model evaluation report using Logistic Regression.
+
+Note: The final project uses a small sample dataset for learning purposes. Its evaluation results are not representative of real-world model performance.
+
 ## Learning Progress
 
 This repository documents my journey from Python fundamentals to AI engineering concepts through hands-on practice and projects.
