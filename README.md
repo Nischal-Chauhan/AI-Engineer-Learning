@@ -18,23 +18,23 @@ projects.
 
 
 
-\-   \`01_variables_and_types.py\` --- variables and basic data types
+\-   `01\_variables\_and\_types.py` --- variables and basic data types
 
-\-   \`02_input_and_calculations.py\` --- user input and arithmetic
+\-   `02\_input\_and\_calculations.py` --- user input and arithmetic
 
     operations
 
-\-   \`03_marks_checker.py\` --- if, elif, and else conditions
+\-   `03\_marks\_checker.py` --- if, elif, and else conditions
 
-\-   \`04_multiplication_table.py\` --- for loop and range
+\-   `04\_multiplication\_table.py` --- for loop and range
 
-\-   \`05_while_loop.py\` --- while loop and countdown
+\-   `05\_while\_loop.py` --- while loop and countdown
 
-\-   \`06_number_guessing_game.py\` --- number guessing game with hints
+\-   `06\_number\_guessing\_game.py` --- number guessing game with hints
 
 
 
-**## Week 2: Functions & Data Structures --- Completed**
+**## Week 2: Functions \& Data Structures --- Completed**
 
 
 
@@ -42,23 +42,23 @@ projects.
 
 
 
-\-   \`01_functions.py\` --- functions, arguments, return values, and scope
+\-   `01\_functions.py` --- functions, arguments, return values, and scope
 
-\-   \`02_lists.py\` --- lists, indexing, updating, adding, counting, and
+\-   `02\_lists.py` --- lists, indexing, updating, adding, counting, and
 
     looping
 
-\-   \`03_dictionaries.py\` --- key-value pairs
+\-   `03\_dictionaries.py` --- key-value pairs
 
-\-   \`04_tuples.py\` --- tuples and indexing
+\-   `04\_tuples.py` --- tuples and indexing
 
-\-   \`05_sets.py\` --- unique values and adding items
+\-   `05\_sets.py` --- unique values and adding items
 
-\-   \`06_student_marks_analyzer.py\` --- average, highest and lowest
+\-   `06\_student\_marks\_analyzer.py` --- average, highest and lowest
 
     marks, and pass/fail result
 
-\-   \`07_todo_list.py\` --- add and display tasks
+\-   `07\_todo\_list.py` --- add and display tasks
 
 
 
@@ -70,27 +70,27 @@ projects.
 
 
 
-\-   \`01_modules_and_imports.py\` --- using the built-in \`math\` and
+\-   `01\_modules\_and\_imports.py` --- using the built-in `math` and
 
-    \`random\` modules
+    `random` modules
 
-\-   \`02_file_handling.py\` --- writing to and reading from a text file
+\-   `02\_file\_handling.py` --- writing to and reading from a text file
 
-\-   \`03_error_handling.py\` --- handling invalid input with \`try\` and
+\-   `03\_error\_handling.py` --- handling invalid input with `try` and
 
-    \`except\`
+    `except`
 
-\-   \`04_debugging_practice.py\` --- finding and fixing a variable name
+\-   `04\_debugging\_practice.py` --- finding and fixing a variable name
 
     error
 
-\-   \`05_csv_reader.py\` --- reading student marks from a CSV file and
+\-   `05\_csv\_reader.py` --- reading student marks from a CSV file and
 
     calculating the average, highest, and lowest marks
 
-\-   \`students.csv\` --- sample student marks data
+\-   `students.csv` --- sample student marks data
 
-\-   \`learning_note.txt\` --- text file used for file handling practice
+\-   `learning\_note.txt` --- text file used for file handling practice
 
 
 
@@ -102,7 +102,7 @@ projects.
 
 
 
-\-   \`Week-04/01_git_branch_practice.md\` --- Git branches and basic
+\-   `Week-04/01\_git\_branch\_practice.md` --- Git branches and basic
 
     workflow practice
 
@@ -116,37 +116,37 @@ projects.
 
 
 
-\-   \`Week-05/01_pandas_intro.py\` --- DataFrames, CSV loading, filtering,
+\-   `Week-05/01\_pandas\_intro.py` --- DataFrames, CSV loading, filtering,
 
     sorting, grouping, and basic data exploration
 
-\-   \`Week-05/02_excel_reader.py\` --- exporting CSV data to Excel and
+\-   `Week-05/02\_excel\_reader.py` --- exporting CSV data to Excel and
 
     reading Excel files
 
-\-   \`Week-05/03_student_data_analysis.py\` --- analysing student marks
+\-   `Week-05/03\_student\_data\_analysis.py` --- analysing student marks
 
     with Pandas
 
-\-   \`Week-05/04_iris_dataset_analysis.py\` --- exploring the Iris dataset
+\-   `Week-05/04\_iris\_dataset\_analysis.py` --- exploring the Iris dataset
 
     with Pandas
 
-\-   \`Week-05/students.csv\` --- sample student marks data
+\-   `Week-05/students.csv` --- sample student marks data
 
-\-   \`Week-05/students.xlsx\` --- generated Excel workbook
+\-   `Week-05/students.xlsx` --- generated Excel workbook
 
-\-   \`Week-05/iris.csv\` --- Iris dataset
-
-
-
-Iris dataset source: R. A. Fisher (1936), [UCI Machine Learning
-
-Repository]\(https\://archive.ics.uci.edu/dataset/53/iris), CC BY 4.0.
+\-   `Week-05/iris.csv` --- Iris dataset
 
 
 
-**## Week 6: Data Cleaning & Preparation**
+Iris dataset source: R. A. Fisher (1936), \[UCI Machine Learning
+
+Repository](https://archive.ics.uci.edu/dataset/53/iris), CC BY 4.0.
+
+
+
+**## Week 6: Data Cleaning \& Preparation**
 
 
 
@@ -154,29 +154,29 @@ Repository]\(https\://archive.ics.uci.edu/dataset/53/iris), CC BY 4.0.
 
 
 
-\-   \`Week-06/messy_students.csv\` --- sample data with a missing mark and
+\-   `Week-06/messy\_students.csv` --- sample data with a missing mark and
 
     duplicate row
 
-\-   \`Week-06/01_inspect_messy_data.py\` --- inspecting missing values and
+\-   `Week-06/01\_inspect\_messy\_data.py` --- inspecting missing values and
 
     duplicate rows
 
-\-   \`Week-06/02_clean_student_data.py\` --- removing missing and
+\-   `Week-06/02\_clean\_student\_data.py` --- removing missing and
 
     duplicate records and adding a pass/fail feature
 
-\-   \`Week-06/03_fill_missing_marks.py\` --- filling missing marks using
+\-   `Week-06/03\_fill\_missing\_marks.py` --- filling missing marks using
 
     the average
 
-\-   \`Week-06/04_student_data_cleaning_project.py\` --- complete data
+\-   `Week-06/04\_student\_data\_cleaning\_project.py` --- complete data
 
     cleaning project, feature creation, scaling, and saving the final
 
     CSV
 
-\-   \`Week-06/final_cleaned_students.csv\` --- final cleaned dataset
+\-   `Week-06/final\_cleaned\_students.csv` --- final cleaned dataset
 
 
 
@@ -188,17 +188,17 @@ Repository]\(https\://archive.ics.uci.edu/dataset/53/iris), CC BY 4.0.
 
 
 
-\-   \`Week-07/01_text_basics.py\` --- lowercase, punctuation removal,
+\-   `Week-07/01\_text\_basics.py` --- lowercase, punctuation removal,
 
     tokenization, and stopwords
 
-\-   \`Week-07/02_stemming.py\` --- reducing words with Porter stemming
+\-   `Week-07/02\_stemming.py` --- reducing words with Porter stemming
 
-\-   \`Week-07/03_lemmatization.py\` --- converting words to dictionary
+\-   `Week-07/03\_lemmatization.py` --- converting words to dictionary
 
     base forms
 
-\-   \`Week-07/04_text_cleaning_pipeline.py\` --- text-cleaning pipeline
+\-   `Week-07/04\_text\_cleaning\_pipeline.py` --- text-cleaning pipeline
 
     using NLTK
 
@@ -208,15 +208,15 @@ Repository]\(https\://archive.ics.uci.edu/dataset/53/iris), CC BY 4.0.
 
 
 
-\`\`\` bash
+``` bash
 
 python -m nltk.downloader stopwords wordnet
 
-\`\`\`
+```
 
 
 
-**## Week 8: Embeddings & Similarity**
+**## Week 8: Embeddings \& Similarity**
 
 
 
@@ -224,21 +224,21 @@ python -m nltk.downloader stopwords wordnet
 
 
 
-\-   \`Week-08/01_vectors.py\` --- representing words with number vectors
+\-   `Week-08/01\_vectors.py` --- representing words with number vectors
 
-\-   \`Week-08/02_cosine_similarity.py\` --- comparing vectors using cosine
+\-   `Week-08/02\_cosine\_similarity.py` --- comparing vectors using cosine
 
     similarity
 
-\-   \`Week-08/03_bag_of_words.py\` --- creating word-count vectors and
+\-   `Week-08/03\_bag\_of\_words.py` --- creating word-count vectors and
 
     comparing text
 
-\-   \`Week-08/04_real_embeddings.py\` --- generating sentence embeddings
+\-   `Week-08/04\_real\_embeddings.py` --- generating sentence embeddings
 
     with a pretrained model
 
-\-   \`Week-08/05_semantic_search.py\` --- finding the closest sentence to
+\-   `Week-08/05\_semantic\_search.py` --- finding the closest sentence to
 
     a query
 
@@ -270,13 +270,13 @@ cached for future runs.
 
 \-   Training and testing datasets
 
-\-   Data splitting using \`train_test_split()\`
+\-   Data splitting using `train\_test\_split()`
 
 \-   Introduction to Logistic Regression
 
-\-   Training models using \`model.fit()\`
+\-   Training models using `model.fit()`
 
-\-   Making predictions using \`model.predict()\`
+\-   Making predictions using `model.predict()`
 
 \-   Evaluating models using accuracy score
 
@@ -286,15 +286,15 @@ cached for future runs.
 
 
 
-\-   \`Week-09/01_train_test_split.py\` --- splitting student data into
+\-   `Week-09/01\_train\_test\_split.py` --- splitting student data into
 
     training and testing datasets
 
-\-   \`Week-09/02_student_ml_project.py\` --- preparing and displaying
+\-   `Week-09/02\_student\_ml\_project.py` --- preparing and displaying
 
     student training and testing data
 
-\-   \`Week-09/03_train_student_model.py\` --- training a Logistic
+\-   `Week-09/03\_train\_student\_model.py` --- training a Logistic
 
     Regression model and predicting student results
 
@@ -352,25 +352,25 @@ purposes. Its accuracy is not representative of real-world performance.
 
 
 
-\-   \`Week-10/01_linear_regression.py\` --- learning numerical prediction
+\-   `Week-10/01\_linear\_regression.py` --- learning numerical prediction
 
     using Linear Regression
 
-\-   \`Week-10/02_logistic_regression.py\` --- classification using
+\-   `Week-10/02\_logistic\_regression.py` --- classification using
 
     Logistic Regression
 
-\-   \`Week-10/03_knn_classifier.py\` --- classification using K-Nearest
+\-   `Week-10/03\_knn\_classifier.py` --- classification using K-Nearest
 
     Neighbors
 
-\-   \`Week-10/04_decision_tree.py\` --- classification using Decision Tree
+\-   `Week-10/04\_decision\_tree.py` --- classification using Decision Tree
 
-\-   \`Week-10/05_compare_models.py\` --- comparing different machine
+\-   `Week-10/05\_compare\_models.py` --- comparing different machine
 
     learning algorithms
 
-\-   \`Week-10/06_student_performance_prediction.py\` --- predicting
+\-   `Week-10/06\_student\_performance\_prediction.py` --- predicting
 
     student performance using study hours
 
@@ -434,19 +434,19 @@ real-world performance.
 
 
 
-\-   \`Week-11/01_model_evaluation_metrics.py\` --- calculating accuracy,
+\-   `Week-11/01\_model\_evaluation\_metrics.py` --- calculating accuracy,
 
     precision, recall, F1 score, and confusion matrix
 
-\-   \`Week-11/02_cross_validation.py\` --- evaluating model performance
+\-   `Week-11/02\_cross\_validation.py` --- evaluating model performance
 
     using 5-fold cross-validation
 
-\-   \`Week-11/03_model_error_analysis.py\` --- identifying incorrect
+\-   `Week-11/03\_model\_error\_analysis.py` --- identifying incorrect
 
     predictions and calculating accuracy and error rate
 
-\-   \`Week-11/04_model_evaluation_report.py\` --- complete model
+\-   `Week-11/04\_model\_evaluation\_report.py` --- complete model
 
     evaluation project combining evaluation metrics, confusion matrix,
 
@@ -544,9 +544,9 @@ hyperparameter tuning, and making predictions.
 
 
 
-\-   [Student Performance
+\-   \[Student Performance
 
-    Prediction]\(https\://github.com/Nischal-Chauhan/Student-Performance-Prediction)
+    Prediction](https://github.com/Nischal-Chauhan/Student-Performance-Prediction)
 
 
 
@@ -618,46 +618,145 @@ learning purposes, not real-world student assessment.
 
 
 
-**## Week 13: LLM Fundamentals & Gemini Chatbot --- Completed
 
-### Concepts Covered
 
-- Large Language Models (LLMs) and how they generate responses
-- Prompts and inference
-- Tokens and context windows
-- Limitations of LLMs, including hallucinations, outdated information, bias, and context limits
-- Connecting Python applications to the Gemini API
-- Handling API errors and request timeouts
+\## Week 13: LLM Fundamentals \& Gemini Chatbot --- Completed
 
-### Practice Files
 
-- `Week-13/01_llm_fundamentals.py` --- introduction to Large Language Models, prompts, and inference
-- `Week-13/02_tokens_and_context.py` --- tokens and context windows
-- `Week-13/03_gemini_chatbot.py` --- interactive chatbot built with the Google Gemini API
 
-### Libraries and Tools Used
+\### Concepts Covered
 
-- Python
-- Google Gen AI SDK (`google-genai`)
-- `python-dotenv`
-- Google Gemini API
 
-### Key Learning
+
+\- Large Language Models (LLMs) and how they generate responses
+
+\- Prompts and inference
+
+\- Tokens and context windows
+
+\- Limitations of LLMs, including hallucinations, outdated information, bias, and context limits
+
+\- Connecting Python applications to the Gemini API
+
+\- Handling API errors and request timeouts
+
+
+
+\### Practice Files
+
+
+
+\- `Week-13/01\_llm\_fundamentals.py` --- introduction to Large Language Models, prompts, and inference
+
+\- `Week-13/02\_tokens\_and\_context.py` --- tokens and context windows
+
+\- `Week-13/03\_gemini\_chatbot.py` --- interactive chatbot built with the Google Gemini API
+
+
+
+\### Libraries and Tools Used
+
+
+
+\- Python
+
+\- Google Gen AI SDK (`google-genai`)
+
+\- `python-dotenv`
+
+\- Google Gemini API
+
+
+
+\### Key Learning
+
+
 
 Learned the fundamentals of LLMs, how tokens and context windows work, and common limitations of language models. Built an interactive Python chatbot using the Gemini API and stored the API key in a local `.env` file rather than hard-coding it in the source code.
 
+
+
 Note: The Gemini API requires an API key. The `.env` file containing the key is excluded from Git using `.gitignore`; never commit or share API keys.
 
-## Learning Progress**
+
+
+\## Week 14: Prompt Engineering --- Completed
 
 
 
-This repository documents my journey from Python fundamentals to AI
-
-engineering concepts through hands-on practice and projects.
+\### Concepts Covered
 
 
 
-More weeks and projects will be added as I progress through the 6-month
+\- Role-based prompting
 
-AI Engineer roadmap.
+\- Few-shot prompting
+
+\- Structured outputs using JSON
+
+\- Prompt iteration and improvement
+
+\- Dynamic prompt generation based on user input
+
+\- Handling API errors and temporary server failures
+
+\- Automatic retry mechanism
+
+
+
+\### Practice Project
+
+
+
+\- `Week-14/01\_prompt\_summarizer.py` --- AI-powered text summarizer using the Gemini API
+
+
+
+\### Project Features
+
+
+
+\- Short summaries (1–2 sentences)
+
+\- Medium summaries (3–5 sentences)
+
+\- Detailed summaries (6–8 sentences)
+
+\- Exactly 3 key points in the generated output
+
+\- Structured JSON responses
+
+\- Automatic retry when the Gemini API returns a temporary 503 error
+
+\- Input validation and error handling
+
+
+
+\### Libraries and Tools Used
+
+
+
+\- Python
+
+\- Google Gen AI SDK (`google-genai`)
+
+\- `python-dotenv`
+
+\- JSON
+
+\- Google Gemini API
+
+
+
+\### Key Learning
+
+
+
+Learned how to design and improve prompts, control the structure and length of AI-generated summaries, request structured JSON output, and handle temporary API failures using an automatic retry mechanism.
+
+
+
+Note: The Gemini API requires an API key. The `.env` file containing the key is excluded from Git using `.gitignore`; never commit or share API keys.
+
+
+
